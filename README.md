@@ -50,9 +50,10 @@
 ## 📈 GitHub Stats and 🏆 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical" alt="Kawsar's GitHub stats" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical" alt="Kawsar's GitHub stats" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" width="370" />
 </p>
+
 
 
 
