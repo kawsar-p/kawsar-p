@@ -51,6 +51,9 @@
   <a href="https://judge.beecrowd.com/en/profile.php?user=yourusername" target="_blank">
     <img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge&logo=bee&logoColor=white" alt="BeeCrowd" />
   </a>
+  <a href="https://codeforces.com/profile/miah_vai" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
 ---
