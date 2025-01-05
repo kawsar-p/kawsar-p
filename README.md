@@ -47,7 +47,15 @@
 
 ---
 
+## 📈 GitHub Stats and 🏆 Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical" alt="Kawsar's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" />
+</p>
+
 ### 💡 Quote:
 <p align="center">
   "Code is like humor. When you have to explain it, it’s bad." - Cory House
 </p>
+
