@@ -10,24 +10,17 @@
 
 ---
 
+<!-- Welcome Animated Text (Moved) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Welcome Typing Animation" />
+</p>
+
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Animation" width="400" />
 
 ### 👨‍💻 About Me:
 - 🌱 Currently learning **C++**  
 - 💼 Open to opportunities in software development and research  
 - 📧 Reach me at **[mdkawsarmiah33@gmail.com](mailto:mdkawsarmiah33@gmail.com)**  
-
----
-
-### 🌐 Connect with Me:
-<p>
-  <a href="https://fb.com/md.kawsar.miah95" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
 ---
 
@@ -47,6 +40,18 @@
 
 ---
 
+### 🌐 Connect with Me:
+<p>
+  <a href="https://fb.com/md.kawsar.miah95" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Stats and 🏆 Contributions
 
 <p align="center">
@@ -54,11 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" width="370" />
 </p>
 
-
-
-
 ### 💡 Quote:
 <p align="center">
   "Code is like humor. When you have to explain it, it’s bad." - Cory House
 </p>
-
