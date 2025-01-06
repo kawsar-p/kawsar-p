@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Programmer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-kawsar-miah&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kawsar-p&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <a href="mailto:mdkawsarmiah33@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdkawsarmiah33%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -10,7 +10,7 @@
 
 ---
 
-<!-- Welcome Animated Text (Moved) -->
+<!-- Welcome Animated Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Welcome Typing Animation" />
 </p>
@@ -35,7 +35,7 @@
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <!-- Add more tools here -->
+  <!-- Add more tools as needed -->
 </p>
 
 ---
