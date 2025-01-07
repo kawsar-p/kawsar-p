@@ -49,10 +49,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://judge.beecrowd.com/en/profile/908583" target="_blank">
-    <img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge&logo=bee&logoColor=white" alt="BeeCrowd" />
+    <img src="https://img.shields.io/badge/BeeCrowd-FF6F00?style=for-the-badge&logoColor=white" alt="BeeCrowd" />
   </a>
   <a href="https://codeforces.com/profile/miah_vai" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
