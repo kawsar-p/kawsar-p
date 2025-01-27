@@ -18,7 +18,7 @@
 <img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Developer Animation" width="400" />
 
 ### 👨‍💻 About Me:
-- 🌱 Currently learning **C++**  
+- 🌱 Currently learning **Python**  
 - 💼 Open to opportunities in software development and research  
 - 📧 Reach me at **[mdkawsarmiah33@gmail.com](mailto:mdkawsarmiah33@gmail.com)**  
 
@@ -26,6 +26,9 @@
 
 ### 🛠️ Languages & Tools:
 <p>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -61,9 +64,18 @@
 ## 📈 GitHub Stats and 🏆 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical" alt="Kawsar's GitHub stats" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" width="370" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical" alt="Kawsar's GitHub Stats" height="180" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" height="180" />
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="180" />
+</p>
+
+---
 
 ### 💡 Quote:
 <p align="center">
