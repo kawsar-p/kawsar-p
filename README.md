@@ -71,12 +71,7 @@
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <!-- GitHub Contributions Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kawsar-p&theme=radical&hide_border=true&area=true" alt="GitHub Contributions Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
 
