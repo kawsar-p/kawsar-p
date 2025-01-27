@@ -69,7 +69,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" height="180" />
 </p>
 
-<p align="right">
+<p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
