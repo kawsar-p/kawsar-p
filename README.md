@@ -62,14 +62,14 @@
 
 ## 📈 GitHub Stats and 🏆 Contributions
 
-<p align="center">
+<p align="left">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical" alt="Kawsar's GitHub Stats" height="180" />
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" height="180" />
 </p>
 
-<p align="center">
+<p align="right">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
