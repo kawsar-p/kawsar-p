@@ -38,7 +38,6 @@
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <!-- Add more tools as needed -->
 </p>
 
 ---
@@ -74,16 +73,21 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
----
-
-### 🐍 Contribution Snake:
 
 <p align="center">
-  <img src="https://github.com/kawsar-p/kawsar-p/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <!-- GitHub Contributions Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kawsar-p&theme=radical&hide_border=true&area=true" alt="GitHub Contributions Graph" />
 </p>
 
 ---
 
+## 🔥 Development Activity
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kawsar-p&theme=redical&hide_border=true" alt="Development Activity" />
+</p>
+
+---
 
 ### 💡 Quote:
 <p align="center">
