@@ -74,8 +74,16 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
+---
+
+### 🐍 Contribution Snake:
+
+<p align="center">
+  <img src="https://github.com/kawsar-p/kawsar-p/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
 
 ---
+
 
 ### 💡 Quote:
 <p align="center">
