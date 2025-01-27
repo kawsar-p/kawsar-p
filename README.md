@@ -79,15 +79,21 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kawsar-p&theme=radical&hide_border=true&area=true" alt="GitHub Contributions Graph" />
 </p>
 
----
 
-## 🔥 Development Activity
+## 📊 Development Activity  
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kawsar-p&theme=redical&hide_border=true" alt="Development Activity" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawsar-p&theme=github_dark" alt="Profile Details"/>
 </p>
 
----
+
+<p align="center">
+  
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kawsar-p&theme=github_dark" alt="GitHub Stats Summary"/> 
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kawsar-p&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+  <!-- NEW GRAPH ADDED -->
+  
+</p>
 
 ### 💡 Quote:
 <p align="center">
