@@ -95,6 +95,13 @@
   
 </p>
 
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/dist/snake.svg" />
+</p>
+---
+
 ### 💡 Quote:
 <p align="center">
   "Code is like humor. When you have to explain it, it’s bad." - Cory House
