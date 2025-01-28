@@ -38,6 +38,12 @@
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -64,22 +70,27 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical" alt="Kawsar's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Stats" alt="Kawsar's GitHub Stats" height="200" width="400" />
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical" alt="Kawsar's GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Kawsar's GitHub Streak" height="200" width="400" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Top Languages" height="200" width="400" />
+  <!-- Most Used Languages Pie Chart -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsar-p&theme=2077" alt="Most Used Languages Pie Chart" height="200" width="400" />
 </p>
 
+
+---
 
 ## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shafiulmondol/shafiulmondol/main/dist/snake.svg" />
 </p>
+
 ---
 
 ### 💡 Quote:
