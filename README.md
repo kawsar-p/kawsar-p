@@ -68,32 +68,15 @@
 
 ## 📈 GitHub Stats and 🏆 Contributions
 
-<table align="center">
-  <tr>
-    <!-- GitHub Stats -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical&hide_border=true" alt="Kawsar's GitHub Stats" width="380" height="200" />
-    </td>
-    <!-- GitHub Streak -->
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kawsar-p&theme=radical&hide_border=true" alt="Kawsar's GitHub Streak" width="380" height="200" />
-    </td>
-  </tr>
-  <tr>
-    <!-- Top Languages -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawsar-p&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="380" height="200" />
-    </td>
-    <!-- Most Used Languages Pie Chart -->
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsar-p&theme=2077" alt="Most Used Languages Pie Chart" width="380" height="200" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical&hide_border=true" alt="Kawsar's GitHub Stats" width="400" height="200" />
+  <!-- Most Used Languages Pie Chart -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsar-p&theme=transparent" alt="Most Used Languages Pie Chart" width="400" height="200" />
+</p>
 
 
 
----
 
 ## 🐍 Contribution Snake  
 
