@@ -8,7 +8,7 @@
   </a>
 </p>
 
----
+
 
 <!-- Welcome Animated Text -->
 <p align="center">
