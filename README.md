@@ -76,9 +76,11 @@
 <p align="center">   
   <!-- GitHub Stats -->   
   <img src="https://github-readme-stats.vercel.app/api?username=kawsar-p&show_icons=true&theme=radical&hide_border=true" alt="Kawsar's GitHub Stats" width="400" height="200" />   
-  <!-- Most Used Languages Pie Chart -->   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kawsar-p&theme=transparent" alt="Most Used Languages Pie Chart" width="400" height="200" /> 
-</p>     
+  <!-- Most Used Languages by Commit -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kawsar-p&theme=transparent" 
+       alt="Most Used Languages by Commit" 
+       width="400" 
+       height="200" />     
 
 ## 🐍 Contribution Snake    
 <p align="center">   
