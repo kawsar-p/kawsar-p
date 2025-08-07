@@ -67,7 +67,11 @@
   </a>   
   <a href="https://codeforces.com/profile/miah_vai" target="_blank">     
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logoColor=white" alt="Codeforces" />   
-  </a> 
+  </a>
+<a href="https://www.datacamp.com/portfolio/23303105" target="_blank">     
+  <img src="https://img.shields.io/badge/DataCamp-003B49?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp" />   
+</a>
+ 
 </p>  
 
 ---  
