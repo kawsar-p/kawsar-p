@@ -71,6 +71,10 @@
 <a href="https://www.datacamp.com/portfolio/23303105" target="_blank">     
   <img src="https://img.shields.io/badge/DataCamp-003B49?style=for-the-badge&logo=datacamp&logoColor=white" alt="DataCamp" />   
 </a>
+<a href="https://www.researchgate.net/profile/Md-Miah-186?ev=hdr_xprf" target="_blank">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+</a>
+
  
 </p>  
 
